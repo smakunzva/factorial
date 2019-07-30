@@ -32,7 +32,7 @@ public class Factorial {
 
 	}
 
-
+	// Factorial through recursion
 	private static int recursiveFunction(int num) {
 		if(num == 0) {
 			return 1;
